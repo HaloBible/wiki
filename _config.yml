@@ -1,0 +1,21 @@
+title: "Epipath"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+description: A Halo wiki for modding
+permalink: pretty
+exclude: ["README.md"]
+# Set the search token separator for hyphenated-word search:
+search_tokenizer_separator: /[\s/]+/
+# Enable or disable heading anchors
+heading_anchors: true
+aux_links:
+  "Github":
+    - "//github.com/HaloBible/wiki/gh-pages/"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2019 Epipath. Distributed by an MIT license."
+plugins:
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jekyll-youtube
