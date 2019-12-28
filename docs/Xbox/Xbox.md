@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index of Halo 
+title: Xbox
 nav_order: 99
 ---
 Testerino
