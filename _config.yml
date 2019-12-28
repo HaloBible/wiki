@@ -11,7 +11,7 @@ search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
 aux_links:
   "Github":
-    - "//github.com/HaloBible/wiki/gh-pages/"
+    - "//github.com/HaloBible/wiki/tree/gh-pages"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2019 Epipath. Distributed by an MIT license."
