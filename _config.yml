@@ -15,5 +15,8 @@ aux_links:
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2019 Epitaph. Distributed by an MIT license."
-plugins: ["jekyll-seo-tag","jekyll-mentions","jekyll-youtube"]
 gems: [jekyll-youtube]
+plugins: 
+    - jekyll-seo-tag
+    - jekyll-mentions
+    - jekyll-youtube

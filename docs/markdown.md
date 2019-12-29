@@ -4,8 +4,6 @@ title: Markdown Playground
 nav_order: 99
 ---
 
- {% youtube "https://www.youtube.com/watch?v=oHg5SJYRHA0" %}
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](index).
