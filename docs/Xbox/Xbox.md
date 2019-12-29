@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Xbox
-nav_order: 99
+has_children: true
+nav_order: 2
 ---
 Testerino
