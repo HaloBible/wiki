@@ -36,6 +36,5 @@ Importing sounds from other maps is disabled as that feature is not yet complete
 See Map to Map sound injection for more information:
 https://www.xboxchaos.com/topic/4815-map-to-map-sound-injection/#comment-38478
 
-Some objects such as initial_spawn_point require their shaders to be deleted (removed or "nulled") or they will crash the game. For initial_spawn_point the shader does not need to be removed if its added to the game through the Scenery section. If in the sandbox_palette, and the shader has not been removed, it will crash the game.
 See basic tag injection for more information:
 https://www.xboxchaos.com/topic/3938-basic-tag-injection-tutorial/#comment-30825
