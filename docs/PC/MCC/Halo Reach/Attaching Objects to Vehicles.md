@@ -2,6 +2,8 @@
 layout: default
 title: Attaching Objects to Vehicles
 nav_order: 2
+has_children: false
+parent: Halo Reach
 ---
 # Attaching Objects to Vehicles
 The objects section under variants in the HLMT tag allows the addition of objects to a vehicle. Not to be confused with attachments. The markers section under the model (.mode) file allows the positioning of attached objects.
