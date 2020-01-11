@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assembly and Its Functionality
-nav_order: 5
+nav_order: 1
 ---
 # Assembly and Its Functionality
 {: .no_toc }
