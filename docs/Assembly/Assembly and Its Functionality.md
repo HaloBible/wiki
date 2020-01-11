@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Assembly and Its Functionality
+parent: Assembly
+has_children: false
 nav_order: 1
 ---
 # Assembly and Its Functionality
