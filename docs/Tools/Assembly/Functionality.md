@@ -2,6 +2,7 @@
 layout: default
 title: Functionality
 parent: Assembly
+grandparent: Tools
 nav_order: 1
 ---
 # Assembly and Its Functionality
