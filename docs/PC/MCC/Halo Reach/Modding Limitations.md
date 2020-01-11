@@ -2,6 +2,8 @@
 layout: default
 title: Modding Limitations
 nav_order: 5
+has_children: false
+parent: Halo Reach
 ---
 # Modding Limitations
 * The Assembly downloader will download the 2016 main branch. It does not work for the PC version of Halo Reach. Make sure to click the 2019 "dev_" branch.
