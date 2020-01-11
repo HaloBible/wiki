@@ -1,4 +1,9 @@
--The objects section under variants in the HLMT tag allows the addition of objects to a vehicle. Not to be confused with attachments. The markers section under the model (.mode) file allows positioning these objects.
+---
+layout: default
+title: Attaching Objects to Vehicles
+nav_order: 99
+---
+The objects section under variants in the HLMT tag allows the addition of objects to a vehicle. Not to be confused with attachments. The markers section under the model (.mode) file allows positioning these objects.
 
 First open a vehicle to edit, then goto its HLMT. This example uses the semi-truck (truck_cab_large).
 ![Goto models](https://user-images.githubusercontent.com/7255464/71775002-58a26a80-2f36-11ea-894e-031c024868a0.png)
