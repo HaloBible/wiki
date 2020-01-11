@@ -31,19 +31,19 @@ A list of internal map names and in-game map names are listed in Assembly under 
 ## Important Object Types
 This list encompasses the abbreviations for tags often used in regular operation.
 
-Globals = matg  |  Global settings. 
-Scenario = scnr  |  Scenario related data. 
-Scenery = Scen  |  Scenery related objects. 
-Vehicle = vehi  |  Vehicles. 
-Weapon = weap  |  Weapons. 
-Crate = bloc  |  Objects placed in the environment. Example: pallets. 
-Model = hlmt  |  Data related to object models. 
-Model = mode  |  Mesh data. 
-Shader = rmsh  |  Shader data. 
-Sound = snd!  |  Normal sounds such as gun-fire. 
-Sound Looping = lsnd  |  Looped sounds such as the sounds of a vehicle engine 
-Sound Environment = snde  |  Environmental sounds such as wind and foliage. 
-Sound Cache File = ugh! (Do not import this tag it will crash the game) 
+Globals = matg  |  Global settings.  
+Scenario = scnr  |  Scenario related data.  
+Scenery = Scen  |  Scenery related objects.  
+Vehicle = vehi  |  Vehicles.  
+Weapon = weap  |  Weapons.  
+Crate = bloc  |  Objects placed in the environment. Example: pallets.  
+Model = hlmt  |  Data related to object models.  
+Model = mode  |  Mesh data.  
+Shader = rmsh  |  Shader data.  
+Sound = snd!  |  Normal sounds such as gun-fire.  
+Sound Looping = lsnd  |  Looped sounds such as the sounds of a vehicle engine  
+Sound Environment = snde  |  Environmental sounds such as wind and foliage.  
+Sound Cache File = ugh! (Do not import this tag it will crash the game)  
 
 ## Plugins
 Assembly's modular design assigns a plugin to each tag type. Modders can edit or download plugins to alter Assembly to suit their needs. See Plugins.
