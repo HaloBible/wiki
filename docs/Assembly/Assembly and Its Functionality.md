@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Assembly and Its Functionality
+title: Functionality
+parent: Assembly
 nav_order: 1
 ---
 # Assembly and Its Functionality
