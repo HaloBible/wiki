@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Attaching Objects to Vehicles
-parent: Halo Reach
-grand_parent: MCC
+parent: Reach
 nav_order: 2
 ---
 # Attaching Objects to Vehicles

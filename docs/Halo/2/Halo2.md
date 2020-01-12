@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Halo Reach
-parent: MCC
-grand_parent: PC
+title: Halo 2
 has_children: true
 nav_order: 99
 ---

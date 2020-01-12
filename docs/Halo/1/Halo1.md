@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Halo: CE Anniversary
-parent: Xbox
+title: Halo 1
 has_children: true
 nav_order: 99
 ---

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Halo 3
-parent: Xbox
+title: Halo
 has_children: true
-nav_order: 99
+nav_order: 1
 ---
 Testerino
