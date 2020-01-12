@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index of Halo
+title: Home
 nav_order: 1
 ---
 # Welcome to Epitaph, the Halo Modding Wikipedia.
