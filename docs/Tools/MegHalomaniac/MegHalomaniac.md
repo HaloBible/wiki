@@ -11,6 +11,6 @@ A game variant disassembler and reassembler. Halo game variant files are in hexa
 
 Supports Halo Reach and Halo 4.
 
-#### [Download](https://github.com/KornnerStudios/KSoft.Blam/releases)
+### [Download](https://github.com/KornnerStudios/KSoft.Blam/releases)
 
-#### [Github](https://github.com/KornnerStudios/KSoft.Blam)
+### [Github](https://github.com/KornnerStudios/KSoft.Blam)
