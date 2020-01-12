@@ -13,7 +13,7 @@ nav_order: 1
 
 ### Popular Articles
 
-* [Assembly and Its Functionality](https://epitaph.dev/docs/Tools/Assembly/Assembly%20and%20Its%20Functional%20Use)
+* [Assembly and Its Functionality](https://epitaph.dev/docs/Tools/Assembly/#assembly-and-its-functionality)
 * [Attaching Objects to Vehicles](https://epitaph.dev/docs/Halo/Reach/Attaching%20Objects%20to%20Vehicles/)
 * [Modding Limitations](https://epitaph.dev/docs/Halo/Reach/Modding%20Limitations/)
 
