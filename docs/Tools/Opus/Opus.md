@@ -4,6 +4,7 @@ title: Opus
 parent: Tools
 has_children: true
 nav_order: 3
+has_toc: false
 ---
 # Opus
 Opus replaces the Steam MCC executable, this allows launching straight into maps bypassing menus. A valuable time saving tool.
