@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Halo Reach
+title: Reach
 has_children: true
 nav_order: 99
 ---
