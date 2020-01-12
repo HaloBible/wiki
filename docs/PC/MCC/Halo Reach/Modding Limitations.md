@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Modding Limitations
+parent: Halo Reach
+grand_parent: MCC
 nav_order: 5
 ---
 # Modding Limitations
