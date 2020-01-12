@@ -13,12 +13,12 @@ nav_order: 1
 
 ### Popular Articles
 
-* [Assembly and Its Functionality](https://epitaph.dev/docs/Tools/Assembly/Functionality/)
-* [Attaching Objects to Vehicles](https://epitaph.dev/docs/PC/MCC/Halo%20Reach/Attaching%20Objects%20to%20Vehicles/)
-* [Modding Limitations](https://epitaph.dev/docs/PC/MCC/Halo%20Reach/Modding%20Limitations/)
+* [Assembly and Its Functionality](https://epitaph.dev/docs/Tools/Assembly/Assembly%20and%20Its%20Functional%20Use)
+* [Attaching Objects to Vehicles](https://epitaph.dev/docs/Halo/Reach/Attaching%20Objects%20to%20Vehicles/)
+* [Modding Limitations](https://epitaph.dev/docs/Halo/Reach/Modding%20Limitations/)
 
 ### Popular Modding Tools
 
-* [Assembly]()
-* [Opus]()
-* [MegHalomaniac]()
+* [Assembly](https://epitaph.dev/docs/Tools/Assembly/)
+* [Opus](https://epitaph.dev/docs/Tools/Opus/)
+* [MegHalomaniac](https://epitaph.dev/docs/Tools/MegaHalomaniac/)
