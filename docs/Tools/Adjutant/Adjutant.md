@@ -10,9 +10,19 @@ nav_order: 5
 {: .no_toc }
 ### An asset extraction tool for multiple halo games.
 {: .no_toc }
-Assembly is a free, open-source Halo cache file (.map) editor that was built from the ground up. It allows users to create and distribute patches for game content.
+Adjutant is a closed-source tool that can be used to extract various assets from some of the halo games.
 
-Halo on PC requires the 2019 experimental version of Assembly. Choose this version in the Assembly downloader.
+3DS Max 2013 and up will be required to properly open extracted models.
+
+#### List of supported Halo games
+{: .no_toc }
+* Halo CE (X360, PC)
+* Halo CEA (X360)
+* Halo 2 (X360)
+* Halo 3 (X360)
+* Halo 3 ODST (X360)
+* Halo Reach (X360)
+* Halo 4 (X360)
 
 #### [Download](http://forum.halomaps.org/index.cfm?page=topic&topicID=45590)
 {: .no_toc }
@@ -24,4 +34,5 @@ Halo on PC requires the 2019 experimental version of Assembly. Choose this versi
 ---
 # Adjutant and Its Functionality
 {: .no_toc }
-Blargh
+
+To be continued.
