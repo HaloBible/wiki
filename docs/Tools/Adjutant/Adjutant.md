@@ -22,4 +22,4 @@ Accessing extracted models requires an edition of 3DS Max from 2013 to current.
 * Halo Reach (X360)
 * Halo 4 (X360)
 
-#### [Download](http://forum.halomaps.org/index.cfm?page=topic&topicID=45590)
+### [Download](http://forum.halomaps.org/index.cfm?page=topic&topicID=45590)
