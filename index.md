@@ -3,23 +3,23 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# Welcome to Epitaph, the Halo Modding Wikipedia.
+# Welcome to Epitaph,<br>The Halo Modding Wikipedia.
 
-### Modding Communities
+## Popular Articles
 
-* [Discord](https://discord.gg/halomods)
-* [XboxChaos](https://www.xboxchaos.com)
-* [NexusMods](https://www.nexusmods.com/)
+* ### [Assembly and Its Functionality](https://epitaph.dev/docs/Tools/Assembly/Assembly/#assembly-and-its-functionality)
+* ### [Attaching Objects to Vehicles](https://epitaph.dev/docs/Halo/Reach/Attaching%20Objects%20to%20Vehicles/)
+* ### [Modding Limitations](https://epitaph.dev/docs/Halo/Reach/Modding%20Limitations/)
 
-### Popular Articles
-
-* [Assembly and Its Functionality](https://epitaph.dev/docs/Tools/Assembly/#assembly-and-its-functionality)
-* [Attaching Objects to Vehicles](https://epitaph.dev/docs/Halo/Reach/Attaching%20Objects%20to%20Vehicles/)
-* [Modding Limitations](https://epitaph.dev/docs/Halo/Reach/Modding%20Limitations/)
-
-### Popular Modding Tools
+## Popular Modding Tools
 
 * [Assembly](https://epitaph.dev/docs/Tools/Assembly/)
 * [Opus](https://epitaph.dev/docs/Tools/Opus/)
 * [MegHalomaniac](https://epitaph.dev/docs/Tools/MegaHalomaniac/)
 * [Adjutant](https://epitaph.dev/docs/Tools/Adjutant/)
+
+## Modding Communities
+
+* ### [Discord](https://discord.gg/halomods)
+* ### [XboxChaos](https://www.xboxchaos.com)
+* ### [NexusMods](https://www.nexusmods.com/)

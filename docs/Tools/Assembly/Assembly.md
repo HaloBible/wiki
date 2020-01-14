@@ -4,6 +4,7 @@ title: Assembly
 parent: Tools
 has_children: true
 nav_order: 2
+has_toc: false
 ---
 # Assembly
 {: .no_toc }
@@ -13,17 +14,23 @@ Assembly is a free, open-source Halo cache file (.map) editor that was built fro
 
 Halo on PC requires the 2019 experimental version of Assembly. Choose this version in the Assembly downloader.
 
-#### [Download](https://github.com/XboxChaos/Assembly/releases)
+### [Download](https://github.com/XboxChaos/Assembly/releases)
 {: .no_toc }
+
+## Guides
+{: .no_toc .text-delta }
+1. [Poking](https://epitaph.dev/docs/Tools/Assembly/Poking/)
+{: .custom_toc}
+---
+# Assembly and Its Functionality
+{: .no_toc }
+Halo .map files are in the hexadecimal format. All graphics, textures, sounds, models, and characters (bided's) are located in the map files represented as a series of values between 0-9 and A-F. Many games separate map files from other game resources; every map references the same resources in a differing location. Halo does not work this way, every resource is duplicated in every map file. To save space and shorten loading times, unused resources are not implemented into the maps. Example, The Pillar of Autumn (m70.map) mission does not have a falcon. Its related textures, animations, models, and sounds are not present within the .map file. Assembly allows easier editing of the hexadecimal format through transposing it into an easily readable and editable format. Every game object has a block of corresponding hexadecimal code. The developers, through trial and error learned which blocks correspond to which objects and the area they are located within the file. Then they labeled each block and designed Assembly to display the information in its palatable format.
 
 ## Table of contents
 {: .no_toc .text-delta }
 1. TOC
 {:toc}
 ---
-# Assembly and Its Functionality
-{: .no_toc }
-Halo .map files are in the hexadecimal format. All graphics, textures, sounds, models, and characters (bided's) are located in the map files represented as a series of values between 0-9 and A-F. Many games separate map files from other game resources; every map references the same resources in a differing location. Halo does not work this way, every resource is duplicated in every map file. To save space and shorten loading times, unused resources are not implemented into the maps. Example, The Pillar of Autumn (m70.map) mission does not have a falcon. Its related textures, animations, models, and sounds are not present within the .map file. Assembly allows easier editing of the hexadecimal format through transposing it into an easily readable and editable format. Every game object has a block of corresponding hexadecimal code. The developers, through trial and error learned which blocks correspond to which objects and the area they are located within the file. Then they labeled each block and designed Assembly to display the information in its palatable format.
 
 ## Map Header
 

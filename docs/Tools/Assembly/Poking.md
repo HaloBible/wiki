@@ -2,7 +2,7 @@
 layout: default
 title: Poking
 parent: Assembly
-grandparent: Tools
+grand_parent: Tools
 nav_order: 3
 ---
 # Poking

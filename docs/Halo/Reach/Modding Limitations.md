@@ -20,3 +20,5 @@ https://www.xboxchaos.com/topic/4815-map-to-map-sound-injection/#comment-38478
 * The entirety of a campaign map cannot be used as a multiplayer map due to zone loading. The game will crash if it tries to load too many zones at the same time.
 
 * Forge contains two sets of teleporters. The non-forge ones are likely deprecated. Use the ones with the directory labeled "levels\forge" rather than the ones labeled "\multi."
+
+* Campaign maps in multiplayer require editing complex BSP zone loading. Without this modders are restricted to a portion of the map otherwise players will crash.
