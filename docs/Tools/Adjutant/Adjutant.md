@@ -8,7 +8,6 @@ has_toc: false
 nav_order: 6
 ---
 
-# Adjutant
 Adjutant extracts various assets from many halo games. Designed in a closed-source format, it allows resource modification of models, sounds, textures, and more.
 
 Accessing extracted models requires an edition of 3DS Max from 2013 to current.
