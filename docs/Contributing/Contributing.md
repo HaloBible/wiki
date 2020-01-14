@@ -13,7 +13,15 @@ Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing v
 1. TOC
 {:toc}
 ---
-## Writing an article
+# Style Guide
+
+All articles must have a suitable topic. The title must mirror the topic except for when the topic name is too long. Sub-topics or headings are used to separate longer articles.
+
+* Surround single words or lines of `code` in tilda's.
+* Format links using: `[click here](example.com)`
+* Format images using: `![alt_text](example.com/example.png)` Alt text is displayed if the image cannot load and should describe the image in a few words. Ex. Turret on vehicle.
+
+## Writing an Article
 Every article contains an argument, an approach, and a methodology. Whether the argument communicates that an object exists or the correct steps to achieving a desirable outcome, an author still disseminates those three concepts.
 
 Every document must contain the following header data:
@@ -33,6 +41,10 @@ grand_parent: Tools -- The title of the parent of the parent
 * Articles within articles must contain the `grand_parent` line, reflecting the parent of the parent. Note that `grand_parent` non-intuitively requires an underscore separating `grand` and `parent`.
 
 Review [Epitaph Github source](https://github.com/HaloBible/wiki/tree/gh-pages) and [Markdown Playground](https://epitaph.dev/docs/Contributing/Contributing/markdown/) for more formatting and styling demonstrations.
+
+## headings
+The `#` symbol followed with a space creates headings. Add extra hashtag symbols to create smaller headings. Main topic headings should use one hashtag symbol. Subtopics should use two hashtag symbols. Links should use three hashtag symbols. Table of contents headings should use two hash tag symbols.
+If necessary, one hashtag is suitable after a table of contents. See [Assembly and Its Functionality](https://epitaph.dev/docs/Tools/Assembly/Assembly/#assembly-and-its-functionality) as an example.
 
 ## Inserting Table of Contents
 
@@ -64,18 +76,7 @@ To display sub-articles in a main article, create a custom table of contents usi
 ```
 Custom table of contents requires {: .custom_toc} to add an underline to the links.
 
-## headings
-The `#` symbol followed with a space creates headings. Add extra hashtag symbols to create smaller headings. Main topic headings should use one hashtag symbol. Subtopics should use two hashtag symbols. Links should use three hashtag symbols. Table of contents headings should use two hash tag symbols.
-
-## Style Guide
-
-All articles must have a suitable topic. The title must mirror the topic except for when the topic name is too long. Sub-topics or headings are used to separate longer articles.
-
-* Surround single words or lines of `code` in tilda's.
-* Format links using: `[click here](example.com)`
-* Format images using: `![alt_text](example.com/example.png)` Alt text is displayed if the image cannot load and should describe the image in a few words. Ex. Turret on vehicle.
-
-### Referencing
+## Referencing
 Use the `>` at the start of the quote and in new lines that the quote is part of.
 
 Place a dash, the author, followed with the place it came from. Ex. - Batman, Halo Mods Discord #channel_name.
