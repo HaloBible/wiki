@@ -22,7 +22,7 @@ All articles must have a suitable topic. The title must mirror the topic except 
 * Format images using: `![alt_text](example.com/example.png)` Alt text is displayed if the image cannot load and should describe the image in a few words. Ex. Turret on vehicle.
 
 ## Writing an Article
-Every article contains an argument, an approach, and a methodology. Whether the argument communicates that an object exists or the correct steps to achieving a desirable outcome, an author still disseminates those three concepts.
+Every article contains an argument, an approach, and a methodology. Whether the argument communicates that an object exists or the correct steps to achieving a desirable outcome, an author still disseminates those three concepts. Authors should consider those notions while writing and reviewing their article. Articles are submitted through the [pull request](https://github.com/HaloBible/wiki/pulls) button on Github. Epitaph contributors and maintainers expect submitted articles to be in a completed state. Authors can preview their articles by using the fork button on Github. Not every concept or idea needs to be covered in an article, but every paragraph and section should no longer be in a work in progress state after submission. Submitting an unfinished article will allow contributors to provide helpful advice.
 
 Every document must contain the following header data:
 ```
