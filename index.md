@@ -16,7 +16,7 @@ nav_order: 1
 * ###  [Assembly](https://epitaph.dev/docs/Tools/Assembly/)
 * ###  [Opus](https://epitaph.dev/docs/Tools/Opus/)
 * ###  [MegHalomaniac](https://epitaph.dev/docs/Tools/MegaHalomaniac/)
-* ###  [Adjutant](https://epitaph.dev/docs/Tools/Adjutant/)
+* ###  [Adjutant](docs/Tools/Adjutant/)
 
 ## Modding Communities
 
