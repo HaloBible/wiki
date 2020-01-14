@@ -6,6 +6,7 @@ has_children: true
 has_toc: false
 nav_order: 6
 ---
+# Adjutant
 
 Adjutant extracts various assets from many halo games. Designed in a closed-source format, it allows resource modification of models, sounds, textures, and more.
 
