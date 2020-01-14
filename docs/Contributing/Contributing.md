@@ -13,7 +13,7 @@ Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing v
 {:toc}
 ---
 ## Writing an article
-Every article contains an argument, an approach, and a methodology. Whether the argument communicates that an object exists or the correct steps to achieving a desirable outcome, they display an author's personal perspective. Every article has a title; the topic. Article contents should reflect the topic.
+Every article contains an argument, an approach, and a methodology. Whether the argument communicates that an object exists or the correct steps to achieving a desirable outcome, an author still disseminates those three concepts.
 
 Every document must contain header data:
  ---
