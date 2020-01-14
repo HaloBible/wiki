@@ -10,9 +10,9 @@ nav_order: 6
 # Adjutant
 ### An asset extraction tool for multiple halo games.
 {: .no_toc }
-Adjutant is a closed-source tool that can be used to extract various assets from some of the halo games.
+Adjutant, a closed-source tool that can extract various assets from some of the halo games.
 
-3DS Max 2013 and up will be required to properly open extracted models.
+3DS Max 2013 and up required to properly open extracted models.
 
 #### List of supported Halo games
 {: .no_toc }
