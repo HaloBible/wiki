@@ -2,7 +2,7 @@
 layout: default
 title: Contributing
 has_children: true
-nav_order: 99
+nav_order: 96
 ---
 # Contributing to Epitaph
 Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing valuable knowledge to the Halo modding community.
