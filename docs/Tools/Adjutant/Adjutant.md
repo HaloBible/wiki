@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Adjutant
@@ -13,6 +12,7 @@ Adjutant extracts various assets from many halo games. Designed in a closed-sour
 Accessing extracted models requires an edition of 3DS Max from 2013 to current.
 
 #### List of supported Halo games
+
 * Halo CE (X360, PC)
 * Halo CEA (X360)
 * Halo 2 (X360)
