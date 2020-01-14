@@ -4,18 +4,16 @@ layout: default
 title: Adjutant
 parent: Tools
 has_children: true
+has_toc: false
 nav_order: 6
 ---
 
 # Adjutant
-### An asset extraction tool for multiple halo games.
-{: .no_toc }
-Adjutant, a closed-source tool that can extract various assets from some of the halo games.
+Adjutant extracts various assets from many halo games. Designed in a closed-source format, it allows resource modification of models, sounds, textures, and more.
 
-3DS Max 2013 and up required to properly open extracted models.
+Accessing extracted models requires an edition of 3DS Max from 2013 to current.
 
 #### List of supported Halo games
-{: .no_toc }
 * Halo CE (X360, PC)
 * Halo CEA (X360)
 * Halo 2 (X360)
@@ -25,4 +23,3 @@ Adjutant, a closed-source tool that can extract various assets from some of the 
 * Halo 4 (X360)
 
 #### [Download](http://forum.halomaps.org/index.cfm?page=topic&topicID=45590)
-{: .no_toc }
