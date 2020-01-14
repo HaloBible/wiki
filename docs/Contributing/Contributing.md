@@ -44,7 +44,10 @@ grand_parent: Tools -- The title of the parent of the parent
 
 Review [Epitaph Github source](https://github.com/HaloBible/wiki/tree/gh-pages) and [Markdown Playground](https://epitaph.dev/docs/Contributing/Contributing/markdown/) for more formatting and styling demonstrations.
 
-## headings
+## Page Types
+Epitaph implements two kinds of pages. "Home" pages and guides. A guide thoroughly explains the topic. Pages under [tools](https://epitaph.dev/docs/Tools/Tools/) generally contain a home page for each tool. These pages only require the necessary information for a reader to understand what the tool is, does, and its download link. More information is good, but not necessary. Guides are posted under a given tools directory.
+
+## Headings
 The `#` symbol followed with a space creates headings. Add extra hashtag symbols to create smaller headings. Main topic headings should use one hashtag symbol. Subtopics should use two hashtag symbols. Links should use three hashtag symbols. Table of contents headings should use two hash tag symbols.
 If necessary, one hashtag is suitable after a table of contents. See [Assembly and Its Functionality](https://epitaph.dev/docs/Tools/Assembly/Assembly/#assembly-and-its-functionality) as an example.
 
