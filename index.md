@@ -13,10 +13,10 @@ nav_order: 1
 
 ## Popular Modding Tools
 
-* ###  [Assembly](docs/Tools/Assembly/)
-* ###  [Opus](docs/Tools/Opus/)
-* ###  [MegHalomaniac](docs/Tools/MegaHalomaniac/)
-* ###  [Adjutant](docs/Tools/Adjutant/)
+* ###  [Assembly](docs/Tools/Assembly/Assembly/)
+* ###  [Opus](docs/Tools/Opus/Opus/)
+* ###  [MegHalomaniac](docs/Tools/MegHalomaniac/MegHalomaniac/)
+* ###  [Adjutant](docs/Tools/Adjutant/Adjutant/)
 
 ## Modding Communities
 
