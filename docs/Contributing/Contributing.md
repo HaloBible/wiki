@@ -3,10 +3,9 @@ layout: default
 title: Contributing
 has_children: true
 nav_order: 99
-has_toc: false
 ---
 # Contributing to Epitaph
-Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing your valuable knowledge to increase the documentation of the Halo modding community.
+Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing valuable knowledge to the Halo modding community.
 
 ## Writing an article
 Every article contains an argument, an approach, and a methodology. Whether the argument communicates that an object exists or the correct steps to achieving a desirable outcome, they display an author's personal perspective. Every article has a title; the topic. Article contents should reflect the topic.
