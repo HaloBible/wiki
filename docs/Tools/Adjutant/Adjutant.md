@@ -7,7 +7,6 @@ has_children: true
 nav_order: 5
 ---
 # Adjutant
-{: .no_toc }
 ### An asset extraction tool for multiple halo games.
 {: .no_toc }
 Adjutant is a closed-source tool that can be used to extract various assets from some of the halo games.
