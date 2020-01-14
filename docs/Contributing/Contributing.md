@@ -6,7 +6,12 @@ nav_order: 99
 ---
 # Contributing to Epitaph
 Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing valuable knowledge to the Halo modding community.
+## Table of contents
+{: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+---
 ## Writing an article
 Every article contains an argument, an approach, and a methodology. Whether the argument communicates that an object exists or the correct steps to achieving a desirable outcome, they display an author's personal perspective. Every article has a title; the topic. Article contents should reflect the topic.
 
@@ -29,14 +34,14 @@ Review [Epitaph Github source](https://github.com/HaloBible/wiki/tree/gh-pages) 
 ## Inserting Table of Contents
 
 To add a table of contents to a specific spot use the following:
-`
+```
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 ---
-`
+```
 Add `---` after the TOC to insert a line break. The next heading should appear directly after.
 
 The command `{: .no_toc }` written under a heading stops the wiki from including that heading in the table of contents.
@@ -46,14 +51,14 @@ For more detail review [Auto-generating Table of Contents](https://pmarsceill.gi
 ### Custom Table of Contents
 
 To display sub-articles in a main article, create a custom table of contents using the following method:
-`
+```
 ## Custom Table Name
 {: .no_toc .text-delta }
 1. [Poking](https://epitaph.dev/docs/Tools/Assembly/Poking/)
 2. Another list item
 3. etc. etc. etc.
 {: .custom_toc}
-`
+```
 Custom table of contents requires {: .custom_toc} to add an underline to the links.
 
 ## headings
