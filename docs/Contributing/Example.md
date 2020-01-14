@@ -11,17 +11,16 @@ has_toc: false
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## A Sub-topic
-{: .no_toc}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus viverra vitae congue eu consequat ac felis. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit amet.
-
 ## Table of contents (custom)
 {: .no_toc .text-delta }
 1. [Poking](https://epitaph.dev/docs/Tools/Assembly/Poking/)
 2. Another list item
 3. etc. etc. etc.
 {: .custom_toc}
+## A Sub-topic
+{: .no_toc}
+
+A sub-topic using two hashtags. A main-topic in this location can use one hashtag instead of two.
 
 ## Another Sub-topic
 
