@@ -1,0 +1,86 @@
+---
+layout: default
+title: Contributing
+has_children: true
+nav_order: 99
+has_toc: false
+---
+# Contributing to Epitaph
+Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing your valuable knowledge to increase the documentation of the Halo modding community.
+
+## Writing an article
+Every article contains an argument, an approach, and a methodology. Whether the argument communicates that an object exists or the correct steps to achieving a desirable outcome, they display an author's personal perspective. Every article has a title; the topic. Article contents should reflect the topic.
+
+Every document must contain header data:
+ ---
+layout: default
+title: Contributing -- File name and article topic
+parent: Contributing -- Reflects the title of the parent file
+has_children: true -- Remove if the file will have no sub-topics.
+nav_order: 5 -- Alters articles listed position
+has_toc: false -- Disables table of contents auto-generation.
+grand_parent: Tools -- The title of the parent of the parent
+ ---
+* Articles under the directory "docs" do not require `parent`.
+* Remove `has_toc` if wanting auto-generated table of contents.
+* Articles within articles must contain the `grand_parent` line, reflecting the parent of the parent. Note that `grand_parent` non-intuitively requires an underscore separating `grand` and `parent`.
+
+Review [Epitaph Github source](https://github.com/HaloBible/wiki/tree/gh-pages) and [Markdown Playground](https://epitaph.dev/docs/Contributing/Contributing/markdown/) for more formatting and styling demonstrations.
+
+## Inserting Table of Contents
+
+To add a table of contents to a specific spot use the following:
+`
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+---
+`
+Add `---` after the TOC to insert a line break. The next heading should appear directly after.
+
+The command `{: .no_toc }` written under a heading stops the wiki from including that heading in the table of contents.
+
+For more detail review [Auto-generating Table of Contents](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/#auto-generating-table-of-contents).
+
+### Custom Table of Contents
+
+To display sub-articles in a main article, create a custom table of contents using the following method:
+`
+## Custom Table Name
+{: .no_toc .text-delta }
+1. [Poking](https://epitaph.dev/docs/Tools/Assembly/Poking/)
+2. Another list item
+3. etc. etc. etc.
+{: .custom_toc}
+`
+Custom table of contents requires {: .custom_toc} to add an underline to the links.
+
+## headings
+The `#` symbol followed with a space creates headings. Add extra hashtag symbols to create smaller headings. Main topic headings should use one hashtag symbol. Subtopics should use two hashtag symbols. Links should use three hashtag symbols. Table of contents headings should use two hash tag symbols.
+
+## Style Guide
+
+All articles must have a suitable topic. The title must mirror the topic except for when the topic name is too long. Sub-topics or headings are used to separate longer articles.
+
+* Surround single words or lines of `code` in tilda's.
+* Format links using: `[click here](example.com)`
+* Format images using: `![alt_text](example.com/example.png)` Alt text is displayed if the image cannot load and should describe the image in a few words. Ex. Turret on vehicle.
+
+### Referencing
+Use the `>` at the start of the quote and in new lines that the quote is part of.
+
+Place a dash, the author, followed with the place it came from. Ex. - Batman, Halo Mods Discord #channel_name.
+If necessary use `[Discord](example.com)` to link to the source.
+
+## Grammar
+Write with standard English spellings such as colour and armour not "color" and "armor."
+
+Avoid non-academic and colloquial language. Do not write "you", "me", "I", and "we." Also, avoid writing in passive voice and repeating the same word many times.
+Examples:
+"First, I modified the vehicle tag to be better at towing"
+"The vehicle tag is the best way to edit vehicles"
+To make these sentences active take the verb (action word) and place it at the beginning of the sentence then try to re-write it without the words "is" and "to be" or "can be." The second sentence lacks a detailed explanation. It needs to answer the question "Why is it better?"
+"Tow heavier loads through modifying the vehicle tag."
+"Editing the vehicle tag allows modders to effectively create new vehicles"
