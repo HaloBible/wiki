@@ -26,6 +26,3 @@ Adjutant, a closed-source tool that can extract various assets from some of the 
 
 #### [Download](http://forum.halomaps.org/index.cfm?page=topic&topicID=45590)
 {: .no_toc }
-
-To be continued.
-
