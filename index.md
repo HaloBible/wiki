@@ -13,10 +13,10 @@ nav_order: 1
 
 ## Popular Modding Tools
 
-* [Assembly](https://epitaph.dev/docs/Tools/Assembly/)
-* [Opus](https://epitaph.dev/docs/Tools/Opus/)
-* [MegHalomaniac](https://epitaph.dev/docs/Tools/MegaHalomaniac/)
-* [Adjutant](https://epitaph.dev/docs/Tools/Adjutant/)
+* ###  [Assembly](https://epitaph.dev/docs/Tools/Assembly/)
+* ###  [Opus](https://epitaph.dev/docs/Tools/Opus/)
+* ###  [MegHalomaniac](https://epitaph.dev/docs/Tools/MegaHalomaniac/)
+* ###  [Adjutant](https://epitaph.dev/docs/Tools/Adjutant/)
 
 ## Modding Communities
 
