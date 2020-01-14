@@ -16,7 +16,8 @@ Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing v
 ## Writing an article
 Every article contains an argument, an approach, and a methodology. Whether the argument communicates that an object exists or the correct steps to achieving a desirable outcome, an author still disseminates those three concepts.
 
-Every document must contain header data:
+Every document must contain the following header data:
+```
  ---
 layout: default
 title: Contributing -- File name and article topic
@@ -26,6 +27,7 @@ nav_order: 5 -- Alters articles listed position
 has_toc: false -- Disables table of contents auto-generation.
 grand_parent: Tools -- The title of the parent of the parent
  ---
+ ```
 * Articles under the directory "docs" do not require `parent`.
 * Remove `has_toc` if wanting auto-generated table of contents.
 * Articles within articles must contain the `grand_parent` line, reflecting the parent of the parent. Note that `grand_parent` non-intuitively requires an underscore separating `grand` and `parent`.
