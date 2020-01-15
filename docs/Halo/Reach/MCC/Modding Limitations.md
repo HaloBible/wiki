@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modding Limitations
-parent: Reach
+parent: MCC
 nav_order: 5
 ---
 # Modding Limitations
