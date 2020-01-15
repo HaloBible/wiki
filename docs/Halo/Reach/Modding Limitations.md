@@ -11,8 +11,6 @@ nav_order: 3
 ### Assembly
 * The Assembly downloader will download the 2016 main branch. It does not work for the PC version of Halo Reach. Make sure to click the 2019 "dev_" branch.
 
-* Forge contains two sets of teleporters. The non-forge ones are likely deprecated. Use the ones with the directory labeled "levels\forge" rather than the ones labeled "\multi."
-
 ### Other issues
 
 * Adding custom models, textures and maps to the game is not possible.
@@ -30,3 +28,5 @@ nav_order: 3
 ### Assembly
 
 * Assembly cannot extract or inject sounds because the feature has not been implemented yet. Importing vehicles such as the falcon will not come with its sound files.
+
+* Forge contains two sets of teleporters. The non-forge ones are likely deprecated. Use the ones with the directory labeled "levels\forge" rather than the ones labeled "\multi."
