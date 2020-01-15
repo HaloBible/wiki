@@ -7,15 +7,16 @@ nav_order: 1
 
 ## Popular Articles
 
-* ### [Assembly and Its Functionality](https://epitaph.dev/docs/Tools/Assembly/Assembly/#assembly-and-its-functionality)
-* ### [Attaching Objects to Vehicles](https://epitaph.dev/docs/Halo/Reach/Attaching%20Objects%20to%20Vehicles/)
-* ### [Modding Limitations](https://epitaph.dev/docs/Halo/Reach/Modding%20Limitations/)
+* ### [Assembly and Its Functionality](docs/Tools/Assembly/Assembly/#assembly-and-its-functionality)
+* ### [Attaching Objects to Vehicles](docs/Halo/Reach/Attaching%20Objects%20to%20Vehicles/)
+* ### [Modding Limitations](docs/Halo/Reach/Modding%20Limitations/)
 
 ## Popular Modding Tools
 
-* ### [Assembly](https://epitaph.dev/docs/Tools/Assembly/Assembly/)
-* ### [Opus](https://epitaph.dev/docs/Tools/Opus/Opus/)
-* ### [MegHalomaniac](https://epitaph.dev/docs/Tools/MegHalomaniac/MegHalomaniac/)
+* ###  [Assembly](docs/Tools/Assembly/Assembly/)
+* ###  [Opus](docs/Tools/Opus/Opus/)
+* ###  [MegHalomaniac](docs/Tools/MegHalomaniac/MegHalomaniac/)
+* ###  [Adjutant](docs/Tools/Adjutant/Adjutant/)
 
 ## Modding Communities
 
