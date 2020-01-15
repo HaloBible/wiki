@@ -12,7 +12,7 @@ Bonobo extracts animations from halo games and decompiles them.
 
 Accessing extracted animations requires an edition of 3DS Max from 2013 to current.
 
-#### List of supported Halo games
+#### Compatible with:
 
 * Halo 2 (XBOX)
 * Halo 3 (X360)
