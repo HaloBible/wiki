@@ -12,7 +12,7 @@ nav_order: 2
 See Map to Map sound injection for more information:
 https://www.xboxchaos.com/topic/4815-map-to-map-sound-injection/#comment-38478
 
-* Adding custom models and maps to the game is not possible.
+* Adding custom models, textures and maps to the game is not possible.
 
 * Editing collision boxes of existing models is not possible. Models need to be imported with their collision information.
 
