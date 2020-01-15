@@ -11,7 +11,7 @@ nav_order: 3
 ### Assembly
 * The Assembly downloader will download the 2016 main branch. It does not work for the PC version of Halo Reach. Make sure to click the 2019 "dev_" branch.
 
-### Other issues
+### Other
 
 * Adding custom models, textures and maps to the game is not possible.
 
@@ -32,3 +32,7 @@ See Map to Map sound injection for more information:
 https://www.xboxchaos.com/topic/4815-map-to-map-sound-injection/#comment-38478
 
 * Forge contains two sets of teleporters. The non-forge ones are likely deprecated. Use the ones with the directory labeled "levels\forge" rather than the ones labeled "\multi."
+
+### Other
+
+* At this time there are no working 3D external map editors for Halo Reach.
