@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Modding Limitations
-parent: MCC PC
-grand_parent: Reach
-nav_order: 2
+parent: Reach
+nav_order: 3
 ---
 # Modding Limitations
 * The Assembly downloader will download the 2016 main branch. It does not work for the PC version of Halo Reach. Make sure to click the 2019 "dev_" branch.
