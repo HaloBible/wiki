@@ -6,7 +6,7 @@ nav_order: 3
 ---
 # Modding Limitations
 
-# PC Limitations
+## PC Limitations
 
 * The Assembly downloader will download the 2016 main branch. It does not work for the PC version of Halo Reach. Make sure to click the 2019 "dev_" branch.
 
