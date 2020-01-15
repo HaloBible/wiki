@@ -3,10 +3,19 @@ layout: default
 title: Contributing
 has_children: true
 nav_order: 100
+has_toc: false
 ---
 # Contributing to Epitaph
 {: .no_toc}
-Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing valuable knowledge to the Halo modding community.
+Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing your valuable knowledge to the Halo modding community.
+
+## Articles
+{: .no_toc .text-delta }
+
+1. [Markdown Playground](docs/Contributing/markdown/)
+2. [Example Article](docs/Contributing/Example/)
+{:custom_toc}
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -42,14 +51,14 @@ grand_parent: Tools -- The title of the parent of the parent
 * Remove `has_toc` if wanting auto-generated table of contents.
 * Articles within articles must contain the `grand_parent` line, reflecting the parent of the parent. Note that `grand_parent` non-intuitively requires an underscore separating `grand` and `parent`.
 
-Review [Epitaph Github source](https://github.com/HaloBible/wiki/tree/gh-pages) and [Markdown Playground](https://epitaph.dev/docs/Contributing/Contributing/markdown/) for more formatting and styling demonstrations.
+Review [Epitaph Github source](https://github.com/HaloBible/wiki/tree/gh-pages) and [Markdown Playground](docs/Contributing/Contributing/markdown/) for more formatting and styling demonstrations.
 
 ## Page Types
-Epitaph implements two kinds of pages. "Home" pages and guides. A guide thoroughly explains the topic. Pages under [tools](https://epitaph.dev/docs/Tools/Tools/) generally contain a home page for each tool. These pages only require the necessary information for a reader to understand what the tool is, does, and its download link. More information is good, but not necessary. Guides are posted under a given tools directory.
+Epitaph implements two kinds of pages. "Home" pages and guides. A guide thoroughly explains the topic. Pages under [tools](docs/Tools/Tools/) generally contain a home page for each tool. These pages only require the necessary information for a reader to understand what the tool is, does, and its download link. More information is good, but not necessary. Guides are posted under a given tools directory.
 
 ## Headings
 The `#` symbol followed with a space creates headings. Add extra hashtag symbols to create smaller headings. Main topic headings should use one hashtag symbol. Subtopics should use two hashtag symbols. Links should use three hashtag symbols. Table of contents headings should use two hash tag symbols.
-If necessary, one hashtag is suitable after a table of contents. See [Assembly and Its Functionality](https://epitaph.dev/docs/Tools/Assembly/Assembly/#assembly-and-its-functionality) as an example.
+If necessary, one hashtag is suitable after a table of contents. See [Assembly and Its Functionality](docs/Tools/Assembly/Assembly/#assembly-and-its-functionality) as an example.
 
 ## Inserting Table of Contents
 
@@ -74,12 +83,12 @@ To display sub-articles in a main article, create a custom table of contents usi
 ```
 ## Custom Table Name
 {: .no_toc .text-delta }
-1. [Poking](https://epitaph.dev/docs/Tools/Assembly/Poking/)
+1. [Poking](docs/Tools/Assembly/Poking/)
 2. Another list item
 3. etc. etc. etc.
 {: .custom_toc}
 ```
-Custom table of contents requires {: .custom_toc} to add an underline to the links.
+Custom table of contents requires {: .custom_toc} to add an underline to the links. Note that epitaph.dev links only require `docs/` onwards and not the entire web address.
 
 ## Referencing
 Use the `>` at the start of the quote and in new lines that the quote is part of.

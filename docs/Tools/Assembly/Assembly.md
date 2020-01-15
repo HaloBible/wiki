@@ -19,7 +19,7 @@ Halo on PC requires the 2019 experimental version of Assembly. Choose this versi
 
 ## Guides
 {: .no_toc .text-delta }
-1. [Poking](https://epitaph.dev/docs/Tools/Assembly/Poking/)
+1. [Poking](docs/Tools/Assembly/Poking/)
 {: .custom_toc}
 ---
 # Assembly and Its Functionality

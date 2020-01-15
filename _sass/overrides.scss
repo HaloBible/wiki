@@ -1,6 +1,6 @@
 a
 {
-    background-image: none !important;   
+    background-image: none !important;
 }
 #markdown-toc a
 {
@@ -9,4 +9,24 @@ a
 .custom_toc a
 {
     background-image: linear-gradient(#44434d 0%, #44434d 100%) !important;
+}
+.pc::after
+{
+    content: "<img src='assets/images/pc-icon.svg' alt='Xbox 360' height='24' width='24'>";
+}
+.x360::after
+{
+    content: "<img src='assets/images/xbox360-icon.svg' alt='Xbox One' height='24' width='24'>";
+}
+.x360-big::after
+{
+    content: "<img src='assets/images/xbox360-big-icon.svg' alt='Xbox One' height='24' width='24'>";
+}
+.xbone::after
+{
+    content: "<img src='assets/images/xbone-icon.svg' alt='PC' height='24' width='24'>";
+}
+.xbone-big::after
+{
+    content: "<img src='assets/images/xbone-big-icon.svg' alt='PC' height='24' width='24'>";
 }
