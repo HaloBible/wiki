@@ -38,6 +38,7 @@ has_toc: false -- Disables table of contents auto-generation.
 grand_parent: Tools -- The title of the parent of the parent
  ---
  ```
+* Use quotes if your field has special characters such as `:`.
 * Articles under the directory "docs" do not require `parent`.
 * Remove `has_toc` if wanting auto-generated table of contents.
 * Articles within articles must contain the `grand_parent` line, reflecting the parent of the parent. Note that `grand_parent` non-intuitively requires an underscore separating `grand` and `parent`.
