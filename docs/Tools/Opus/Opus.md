@@ -15,12 +15,12 @@ It enables more efficient modding practices than DLL injection through exposing 
  - Squaresome
  - Twister
 
-> Instructions
->1. Download the latest Opus.bin and Opus.exe from the AppVeyor artifacts
->2. Place both Opus.bin and Opus.exe in the MCC root directory where mcclauncher.exe is located
+## Instructions
+1. Download the latest Opus.bin and Opus.exe from the AppVeyor artifacts
+2. Place both Opus.bin and Opus.exe in the MCC root directory where mcclauncher.exe is located
 Usage
 Run Opus.exe, be sure to have Steam running
->- User: Twister, Discord.
+
 
 
 ### [Download](https://ci.appveyor.com/project/Assault-on-the-Control-Room/opus/build/artifacts)
