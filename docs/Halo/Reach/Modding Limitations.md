@@ -28,8 +28,7 @@ nav_order: 3
 ### Assembly
 
 * Assembly cannot extract or inject sounds because the feature has not been implemented yet. Importing vehicles such as the falcon will not come with its sound files. A time consuming method to adding sounds does exist but does not work for the PC.
-See Map to Map sound injection for more information:
-https://www.xboxchaos.com/topic/4815-map-to-map-sound-injection/#comment-38478
+See [Map to Map sound injection](https://www.xboxchaos.com/topic/4815-map-to-map-sound-injection/#comment-38478)
 
 * Forge contains two sets of teleporters. The non-forge ones are likely deprecated. Use the ones with the directory labeled "levels\forge" rather than the ones labeled "\multi."
 
