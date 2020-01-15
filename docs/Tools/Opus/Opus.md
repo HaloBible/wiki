@@ -24,6 +24,4 @@ Run Opus.exe, be sure to have Steam running
 
 ### [Github](https://github.com/Assault-on-the-Control-Room/Opus/)
 
-### Project Contributers
-- Squaresome
-- Twister
+#### Contributers: Squaresome, Twister.
