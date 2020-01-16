@@ -31,7 +31,7 @@ Its common that Region Index and Permutation Index is set to -1. Presumably thos
 
 Node index chooses where on the vehicle the item goes. An index of zero would attach the gun to "b_pedestal" which is effected by the vehicles suspension. This is not good. Scroll up to Nodes and investigate the different index's. In this case an index of six is chosen to attach the object to "b_chassis" as its not effected by the suspension.
 
-Next input translation values. Numbers 0-4 move the object a far. Use the Poke feature to update the vehicle in-game to help decide exacting translation and rotation values to use. Rotation uses a different system than many are used to. This website is easy to convert Euler angles (XYZ) to Quaternions (IJKW). http://quat.zachbennett.com/
+Next input translation values. Numbers 0-4 move the object a far. Use the Poke feature to update the vehicle in-game to help decide exacting translation and rotation values to use. Rotation uses a different system than many are used to. [This website](https://www.andre-gaschler.com/rotationconverter/) converts Euler angles (XYZ) to Quaternions (IJKW).
 Under "Seats" in truck_cab_large.vehi "Gunner" is selected on the driver seat to enable shooting. The object should now appear in-game.
 
 Result:

@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Table of contents (custom)
 {: .no_toc .text-delta }
-1. [Poking](https://epitaph.dev/docs/Tools/Assembly/Poking/)
+1. [Poking](docs/Tools/Assembly/Poking/)
 2. Another list item
 3. etc. etc. etc.
 {: .custom_toc}
