@@ -4,12 +4,6 @@ title: Modding Limitations
 parent: Reach
 nav_order: 5
 ---
----
-layout: default
-title: Modding Limitations
-parent: Reach
-nav_order: 3
----
 # Modding Limitations
 
 ## PC
