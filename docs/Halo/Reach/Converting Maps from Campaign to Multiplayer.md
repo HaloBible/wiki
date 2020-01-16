@@ -29,6 +29,7 @@ To allow the map to even attempt to load, we’ll need to change the map ID of o
 
 The next thing you’re going to want to do is extract some needed tags from the multiplayer map. The two most important are the .mulg multiplayer_globals tag and the .wgtz ui\multiplayer tag - you can skip down to Setting up Forge objects if you’re using a Firefight map - they should have all the information necessary, however if you want to learn, read on.
 I recommend using a small map such as Beaver Creek or Prisoner for extracting the tags, as the .mulg tag will include vehicles and weapons native to that map.
+
 ![Add to extract list](https://lh5.googleusercontent.com/n6ST3f0mYOKJjmBK73WV11kUVGyIhVvUsEhHlGZyWadHXKhcalpNIR_FqwqCNCBKHYOb-b2PGpvRaBIky3bX3wNoz0LNEB21ZMJpLm7s71aTpd7NcrnQxABBGTReDLTvrdUZGQJz)
 
 When you extract tags, there is the option to extract one at a time, however you can also add them to an extract list as seen above which will put all of the tags you want into the same file.
@@ -109,7 +110,7 @@ The first level of the Sandbox Palette is where you’ll have your entries, ff_s
 
 You can leave the Entry Count and Entry Price at 0, so long as your Sandbox Budget has a value above one it doesn’t matter. The Thorage value presumably controls whether the item originates from Thorage or not, just leave it at 0.
 
-I made a [document listing all Forge World entries]("docs/Halo/Reach/Sandbox Palette Objects/") for convenience, let me know if there’s anything I should improve there and like this document feel free to add suggestions.
+I made a document that lists all [Forge World entries](docs/Halo/Reach/Sandbox Palette Objects/) for convenience, let me know if there’s anything I should improve there and like this document feel free to add suggestions.
 
 It is also possible to inject the Sandbox Palette from another level by duplicating the .scnr in that map. You would then null out everything but the parts of the Sandbox Palette you want - keeping in mind that vehicles and thorage objects are known to sometimes cause issues on import - and extract this tag. After injecting it into your map, you would then take the Address of the injected Sandbox Palette and copy that into the map’s regular SCNR.
 
