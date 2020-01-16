@@ -11,7 +11,7 @@ Interpret this list as such:
 * Numbers on the left relate to the palette index.
 * The middle entries are the name/variant name StringIDs.
 * The last part in brackets are comments such as tag types and Palette Object names.
-```generic
+```
 0-14 - ff_weapons_human (.weap tags)
     0-9 - assault_rifle
     1-9 - dmr
