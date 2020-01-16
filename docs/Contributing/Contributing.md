@@ -90,11 +90,16 @@ To display sub-articles in a main article, create a custom table of contents usi
 ```
 Custom table of contents requires {: .custom_toc} to add an underline to the links. Note that epitaph.dev links only require `docs/` onwards and not the entire web address.
 
-## Referencing
+## Citations and Crediting
 Use the `>` at the start of the quote and in new lines that the quote is part of.
 
 Place a dash, the author, followed with the place it came from. Ex. - Batman, Halo Mods Discord #channel_name.
 If necessary use `[Discord](example.com)` to link to the source.
+
+Pages under tools needing to credit authors use the following guidelines:
+* A heading named `Project Contributors`
+* Cite a maximum of three authors in a list.
+Adjustment of these guidelines are allowed if needed to fulfil a specific purpose. Example: [Opus](docs/Tools/Opus/Opus/).
 
 ## Grammar
 Write with standard English spellings such as colour and armour not "color" and "armor."
