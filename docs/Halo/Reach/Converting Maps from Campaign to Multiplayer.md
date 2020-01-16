@@ -110,7 +110,7 @@ The first level of the Sandbox Palette is where you’ll have your entries, ff_s
 
 You can leave the Entry Count and Entry Price at 0, so long as your Sandbox Budget has a value above one it doesn’t matter. The Thorage value presumably controls whether the item originates from Thorage or not, just leave it at 0.
 
-I made a document that lists all [Forge World entries](docs/Halo/Reach/Sandbox Palette Objects/) for convenience, let me know if there’s anything I should improve there and like this document feel free to add suggestions.
+I made a document that lists all [Forge World entries](docs/Halo/Reach/Sandbox%20Palette%20Objects/) for convenience, let me know if there’s anything I should improve there and like this document feel free to add suggestions.
 
 It is also possible to inject the Sandbox Palette from another level by duplicating the .scnr in that map. You would then null out everything but the parts of the Sandbox Palette you want - keeping in mind that vehicles and thorage objects are known to sometimes cause issues on import - and extract this tag. After injecting it into your map, you would then take the Address of the injected Sandbox Palette and copy that into the map’s regular SCNR.
 
