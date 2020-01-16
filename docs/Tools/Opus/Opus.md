@@ -7,8 +7,13 @@ nav_order: 3
 has_toc: false
 ---
 # Opus
-Opus replaces the Steam MCC executable, this allows launching straight into maps bypassing menus. A valuable time saving tool.
-It enables more efficient modding practices than DLL injection through exposing many features after capturing elements such as rendering, memory, input, and runtime code.
+The reverse engineering framework Opus, allows modders to launch directly into maps. It connects to the Halo game engines bypassing the default executable. These concepts allow more efficient practices through skipping elements such as menus and loading screens.
+
+It enables more efficient modding practices than DLL injection through exposing many features such as direct access to runtime code and memory including input and rendering.
+
+## Project contributors
+- [Squaresome](https://github.com/HaydnTrigg)
+- [Twister](https://github.com/theTwist84)
 
 ## Instructions
 1. Download the latest Opus.bin and Opus.exe from the AppVeyor artifacts
@@ -23,5 +28,3 @@ Run Opus.exe, be sure to have Steam running
 ### [Discord](https://discord.gg/ksvhEQD)
 
 ### [Github](https://github.com/Assault-on-the-Control-Room/Opus/)
-
-#### Contributers: Squaresome, Twister.
