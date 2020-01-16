@@ -10,7 +10,8 @@ has_toc: false
 {: .no_toc }
 ### Multi-Generation Blam Engine Research Tool
 {: .no_toc }
-Assembly is a free, open-source Halo cache file (.map) editor that was built from the ground up. It allows users to create and distribute patches for game content.
+
+Assembly, a free open-source Halo cache file (.map) editor, enables creation and distribution of patches for game content. The patch system allows modding of map files without downloading the entire map.
 
 Halo on PC requires the 2019 experimental version of Assembly. Choose this version in the Assembly downloader.
 
