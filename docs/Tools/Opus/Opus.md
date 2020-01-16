@@ -16,10 +16,9 @@ It enables more efficient modding practices than DLL injection through exposing 
 - [Twister](https://github.com/theTwist84)
 
 ## Instructions
-1. Download the latest Opus.bin and Opus.exe from the AppVeyor artifacts
-2. Place both Opus.bin and Opus.exe in the MCC root directory where mcclauncher.exe is located
-Usage
-Run Opus.exe, be sure to have Steam running
+1. Download Opus.bin and Opus.exe from the AppVeyor artifacts
+2. Insert Opus.bin and Opus.exe in the MCC root directory with mcclauncher.exe.
+3. Run Opus.exe with Steam running
 
 
 
