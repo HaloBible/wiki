@@ -11,57 +11,33 @@ Interpret this list as such:
 * Numbers on the left relate to the palette index.
 * The middle entries are the name/variant name StringIDs.
 * The last part in brackets are comments such as tag types and Palette Object names.
-
+```generic
 0-14 - ff_weapons_human (.weap tags)
-
     0-9 - assault_rifle
-
     1-9 - dmr
-
     2-9 - grenade_launcher
-
     3-9 - magnum
-
     4-9 - rocket_launcher
-
     5-9 - shotgun
-
     6-9 - sniper_rifle
-
     7-9 - spartan_laser
-
     8-9 - wep_nade_frag (.eqip tag)
-
     9-9 - wep_machinegun (.vehi tag)
 
 1-14 - ff_weapons_covenant (.weap tags)
-
     0-13 - concussion_rifle
-
     1-13 - energy_sword
-
     2-13 - wep_flakcannon (fuel rod gun)
-
     3-13 - gravity_hammer
-
     4-13 - focus_rifle
-
     5-13 - needle_rifle
-
     6-13 - needler
-
     7-13 - wep_plasmalauncher
-
     8-13 - plasma_pistol
-
     9-13 - plasma_repeater
-
     10-13 - plasma_rifle
-
     11-13 - spike_rifle
-
     12-13 - wep_nade_plasma (.eqip tag)
-
     13-13 - wep_plasmaturret (.vehi tag)
 
 2-14 - ff_armor_abilities (.eqip tags)
@@ -442,3 +418,4 @@ Interpret this list as such:
     0-2 - ff_thorage_generator    (generator_x_large - .mach tag)
     1-2 - ff_thorage_vending_machine    (.bloc tag)
     2-2 - ff_thorage_dinghy    (.scen tag)
+```
