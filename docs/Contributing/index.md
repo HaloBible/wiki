@@ -55,11 +55,11 @@ grand_parent: Tools -- The title of the parent of the parent
 Review [Epitaph Github source](https://github.com/HaloBible/wiki/tree/gh-pages) and [Markdown Playground](docs/Contributing/Contributing/markdown/) for more formatting and styling demonstrations.
 
 ## Page Types
-Epitaph implements two kinds of pages. "Home" pages and guides. A guide thoroughly explains the topic. Pages under [tools](docs/Tools/Tools/) generally contain a home page for each tool. These pages only require the necessary information for a reader to understand what the tool is, does, and its download link. More information is good, but not necessary. Guides are posted under a given tools directory.
+Epitaph implements two kinds of pages. "Home" pages and guides. A guide thoroughly explains the topic. Pages under [tools](docs/Tools/) generally contain a home page for each tool. These pages only require the necessary information for a reader to understand what the tool is, does, and its download link. More information is good, but not necessary. Guides are posted under a given tools directory.
 
 ## Headings
 The `#` symbol followed with a space creates headings. Add extra hashtag symbols to create smaller headings. Main topic headings should use one hashtag symbol. Subtopics should use two hashtag symbols. Links should use three hashtag symbols. Table of contents headings should use two hash tag symbols.
-If necessary, one hashtag is suitable after a table of contents. See [Assembly and Its Functionality](docs/Tools/Assembly/Assembly/#assembly-and-its-functionality) as an example.
+If necessary, one hashtag is suitable after a table of contents. See [Assembly and Its Functionality](docs/Tools/Assembly/#assembly-and-its-functionality) as an example.
 
 ## Inserting Table of Contents
 
@@ -170,11 +170,11 @@ grand_parent: Tools -- The title of the parent of the parent
 Review [Epitaph Github source](https://github.com/HaloBible/wiki/tree/gh-pages) and [Markdown Playground](docs/Contributing/Contributing/markdown/) for more formatting and styling demonstrations.
 
 ## Page Types
-Epitaph implements two kinds of pages. "Home" pages and guides. A guide thoroughly explains the topic. Pages under [tools](docs/Tools/Tools/) generally contain a home page for each tool. These pages only require the necessary information for a reader to understand what the tool is, does, and its download link. More information is good, but not necessary. Guides are posted under a given tools directory.
+Epitaph implements two kinds of pages. "Home" pages and guides. A guide thoroughly explains the topic. Pages under [tools](docs/Tools/) generally contain a home page for each tool. These pages only require the necessary information for a reader to understand what the tool is, does, and its download link. More information is good, but not necessary. Guides are posted under a given tools directory.
 
 ## Headings
 The `#` symbol followed with a space creates headings. Add extra hashtag symbols to create smaller headings. Main topic headings should use one hashtag symbol. Subtopics should use two hashtag symbols. Links should use three hashtag symbols. Table of contents headings should use two hash tag symbols.
-If necessary, one hashtag is suitable after a table of contents. See [Assembly and Its Functionality](docs/Tools/Assembly/Assembly/#assembly-and-its-functionality) as an example.
+If necessary, one hashtag is suitable after a table of contents. See [Assembly and Its Functionality](docs/Tools/Assembly/#assembly-and-its-functionality) as an example.
 
 ## Inserting Table of Contents
 
@@ -215,7 +215,7 @@ If necessary use `[Discord](example.com)` to link to the source.
 Pages under tools needing to credit authors use the following guidelines:
 * A heading named `Project Contributors`
 * Cite a maximum of three authors in a list.
-Adjustment of these guidelines are allowed if needed to fulfil a specific purpose. Example: [Opus](docs/Tools/Opus/Opus/).
+Adjustment of these guidelines are allowed if needed to fulfil a specific purpose. Example: [Opus](docs/Tools/Opus/).
 
 ## Grammar
 Write with standard English spellings such as colour and armour not "color" and "armor."
@@ -227,4 +227,3 @@ Examples:
 To make these sentences active take the verb (action word) and place it at the beginning of the sentence then try to re-write it without the words "is" and "to be" or "can be." The second sentence lacks a detailed explanation. It needs to answer the question "Why is it better?"
 "Tow heavier loads through modifying the vehicle tag."
 "Editing the vehicle tag allows modders to effectively create new vehicles"
-
