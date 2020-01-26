@@ -2,7 +2,7 @@
 layout: default
 title: Sandbox Palette Objects
 parent: Reach
-nav_order: 9
+nav_order: 4
 has_toc: false
 ---
 # Forge World Sandbox Palette Objects
