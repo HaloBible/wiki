@@ -1,6 +1,9 @@
-
-
-
+---
+layout: default
+title: Animation Inheritance
+parent: Reach
+nav_order: 2
+---
 # Animation Inheritance
 
 A step by step guide for setting up and getting Animation Inheritance to work on bipeds using [Assembly](https://epitaph.dev/docs/Tools/Assembly/Assembly/).
