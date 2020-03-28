@@ -1,11 +1,11 @@
-
 ---
 layout: default
 title: Contributing
 has_children: true
-nav_order: 100
+nav_order: 2
 has_toc: false
 ---
+
 # Contributing to Epitaph
 {: .no_toc}
 Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing your valuable knowledge to the Halo modding community.
