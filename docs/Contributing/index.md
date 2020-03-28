@@ -2,7 +2,7 @@
 layout: default
 title: Contributing
 has_children: true
-nav_order: 2
+nav_order: 11
 has_toc: false
 ---
 
