@@ -100,7 +100,7 @@ If necessary use `[Discord](example.com)` to link to the source.
 Pages under tools needing to credit authors use the following guidelines:
 * A heading named `Project Contributors`
 * Cite a maximum of three authors in list form.
-Adjustment of these guidelines are allowed if needed to fulfil a specific purpose. Example: [Opus](https://epitaph.dev/docs/Tools/Opus/Opus/).
+Adjustment of these guidelines are allowed if needed to fulfil a specific purpose. Example: [Opus](https://epitaph.dev/docs/Tools/Opus/).
 
 ## Grammar
 Write with standard English spellings such as colour and armour not "color" and "armor."
