@@ -7,9 +7,7 @@ nav_order: 3
 has_toc: false
 ---
 # Opus
-The reverse engineering framework Opus, allows modders to launch directly into maps. It connects to Halo game engines bypassing the default executable. These concepts allow more efficient practices through skipping elements such as menus and loading screens.
-
-It enables more efficient modding practices than DLL injection through exposing many features such as direct access to runtime code and memory including input and rendering.
+Launch directly into forge and theater maps with the reverse engineering framework Opus. It communicates with the game engine related to each Halo game. This bypasses the default executable for Halo: The Master Chief Collection. It enables more efficient modding practices than DLL injection through exposing features such as direct access to runtime code and memory including input and rendering.
 
 ## Project contributors
 - [Squaresome](https://github.com/HaydnTrigg)
