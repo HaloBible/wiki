@@ -107,7 +107,6 @@ Write with standard English spellings such as colour and armour not "color" and 
 
 Avoid non-academic and colloquial language. Do not write "you", "me", "I", and "we." Also, avoid writing in passive voice.
 
-Here is an example:
 Example:
 ```
 "First, I modified the vehicle tag to be better at towing"
