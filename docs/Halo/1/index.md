@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Halo 1
+title: Halo CE
 has_children: true
-nav_order: 4
+nav_order: 3
 ---
 Testerino
