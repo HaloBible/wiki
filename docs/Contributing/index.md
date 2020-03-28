@@ -105,17 +105,16 @@ Adjustment of these guidelines are allowed if needed to fulfil a specific purpos
 ## Grammar
 Write with standard English spellings such as colour and armour not "color" and "armor."
 
-Avoid non-academic and colloquial language. Do not write "you", "me", "I", and "we." Also, avoid writing in passive voice and repeating the same word many times.
+Avoid non-academic and colloquial language. Do not write "you", "me", "I", and "we." Also, avoid writing in passive voice.
 
-Here is an example:
+Example:
 ```
 "First, I modified the vehicle tag to be better at towing"
 "The vehicle tag is the best way to edit vehicles"
 ```
 To make these sentences active take the verb (action word) and place it at the beginning of the sentence then try to re-write it without the words "is" and "to be" or "can be." The second sentence lacks a detailed explanation. It needs to answer the question "Why is it better?"
 
-Here is an example of how the previous two sentences can be changed to better reflect this format:
+Written without passive voice:
 ```
 "Tow heavier loads through modifying the vehicle tag."
 "Editing the vehicle tag allows modders to effectively create new vehicles"
-```
