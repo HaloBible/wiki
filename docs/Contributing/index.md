@@ -13,8 +13,8 @@ Welcome to the Epitaph wikipedia. Thank you for displaying interest in sharing y
 ## Articles
 {: .no_toc .text-delta }
 
-1. [Markdown Playground](docs/Contributing/markdown/)
-2. [Example Article](docs/Contributing/Example/)
+1. [Markdown Playground](markdown/)
+2. [Example Article](Example/)
 {:custom_toc}
 
 ## Table of contents
@@ -55,11 +55,11 @@ grand_parent: Tools -- The title of the parent of the parent
 Review [Epitaph Github source](https://github.com/HaloBible/wiki/tree/gh-pages) and [Markdown Playground](docs/Contributing/Contributing/markdown/) for more formatting and styling demonstrations.
 
 ## Page Types
-Epitaph implements two kinds of pages. "Home" pages and guides. A guide thoroughly explains the topic. Pages under [tools](docs/Tools/) generally contain a home page for each tool. These pages only require the necessary information for a reader to understand what the tool is, does, and its download link. More information is good, but not necessary. Guides are posted under a given tools directory.
+Epitaph implements two kinds of pages. "Home" pages and guides. A guide thoroughly explains the topic. Pages under [tools](Tools/) generally contain a home page for each tool. These pages only require the necessary information for a reader to understand what the tool is, does, and its download link. More information is good, but not necessary. Guides are posted under a given tools directory.
 
 ## Headings
 The `#` symbol followed with a space creates headings. Add extra hashtag symbols to create smaller headings. Main topic headings should use one hashtag symbol. Subtopics should use two hashtag symbols. Links should use three hashtag symbols. Table of contents headings should use two hash tag symbols.
-If necessary, one hashtag is suitable after a table of contents. See [Assembly and Its Functionality](docs/Tools/Assembly/#assembly-and-its-functionality) as an example.
+If necessary, one hashtag is suitable after a table of contents. See [Assembly and Its Functionality](https://epitaph.dev/docs/Tools/Assembly/#assembly-and-its-functionality) as an example.
 
 ## Inserting Table of Contents
 
@@ -84,7 +84,7 @@ To display sub-articles in a main article, create a custom table of contents usi
 ```
 ## Custom Table Name
 {: .no_toc .text-delta }
-1. [Poking](docs/Tools/Assembly/Poking/)
+1. [Poking](Poking/)
 2. Another list item
 3. etc. etc. etc.
 {: .custom_toc}
@@ -100,21 +100,21 @@ If necessary use `[Discord](example.com)` to link to the source.
 Pages under tools needing to credit authors use the following guidelines:
 * A heading named `Project Contributors`
 * Cite a maximum of three authors in list form.
-Adjustment of these guidelines are allowed if needed to fulfil a specific purpose. Example: [Opus](docs/Tools/Opus/Opus/).
+Adjustment of these guidelines are allowed if needed to fulfil a specific purpose. Example: [Opus](https://epitaph.dev/docs/Tools/Opus/).
 
 ## Grammar
 Write with standard English spellings such as colour and armour not "color" and "armor."
 
-Avoid non-academic and colloquial language. Do not write "you", "me", "I", and "we." Also, avoid writing in passive voice and repeating the same word many times.
+Avoid non-academic and colloquial language. Do not write "you", "me", "I", and "we." Also, avoid writing in passive voice.
 
-Here is an example:
+Example:
 ```
 "First, I modified the vehicle tag to be better at towing"
 "The vehicle tag is the best way to edit vehicles"
 ```
 To make these sentences active take the verb (action word) and place it at the beginning of the sentence then try to re-write it without the words "is" and "to be" or "can be." The second sentence lacks a detailed explanation. It needs to answer the question "Why is it better?"
 
-Here is an example of how the previous two sentences can be changed to better reflect this format:
+Written without the above issues:
 ```
 "Tow heavier loads through modifying the vehicle tag."
 "Editing the vehicle tag allows modders to effectively create new vehicles"
